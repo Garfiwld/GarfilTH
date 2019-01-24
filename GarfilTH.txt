@@ -1,0 +1,16 @@
+! Title: GarfilTH
+! Homepage: https://github.com/Garfiwld/GarfilTH
+
+! Script
+||*.bumq.com^$script
+||*.beaverads.com^$script
+||*.nipa.co.th^$script
+||*.taboola.com^$script
+
+! Youtube
+www.youtube.com###video-masthead
+
+! Nicooppai
+www.niceoppai.net###text-33
+www.niceoppai.net###text-89
+www.niceoppai.net###sct_top_banner
