@@ -7,10 +7,14 @@
 ||*.nipa.co.th^$script
 ||*.taboola.com^$script
 
-! Youtube
-www.youtube.com###video-masthead
+! 7mscorethai.com
+||static.7mscorethai.com/content/classic_skin_dark/logo-77up.png
+||static.7mscorethai.com/images/bn/*
 
-! Nicooppai
+! Nicooppai.net
 www.niceoppai.net###text-33
 www.niceoppai.net###text-89
 www.niceoppai.net###sct_top_banner
+
+! Youtube.com
+www.youtube.com###video-masthead
