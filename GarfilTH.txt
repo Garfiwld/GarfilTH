@@ -9,6 +9,10 @@
 ||*.taboola.com^$script
 ||*.jwpcdn.com^$script
 
+! Goolge Ads
+##div[id^="google_ads_iframe_"]
+##iframe[width="300"][height="250"]
+
 ! 7mscorethai.com
 ||static.7mscorethai.com/content/classic_skin_dark/logo-77up.png
 ||static.7mscorethai.com/images/bn/*
