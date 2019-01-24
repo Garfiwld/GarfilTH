@@ -7,11 +7,9 @@
 ||*.beaverads.com^$script
 ||*.nipa.co.th^$script
 ||*.taboola.com^$script
-||*.jwpcdn.com^$script
 
 ! Goolge Ads
-##div[id^="google_ads_iframe_"]
-##iframe[width="300"][height="250"]
+||imasdk.googleapis.com^
 
 ! 7mscorethai.com
 ||static.7mscorethai.com/content/classic_skin_dark/logo-77up.png
