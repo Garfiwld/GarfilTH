@@ -16,10 +16,17 @@
 ||static.7mscorethai.com/images/bn/*
 
 ! Movie2free.com
-www.movie2free.com###aaa-banner-left
-www.movie2free.com##.content-right > div.sidebar:nth-of-type(1)
+||movies-x.com^
 www.movie2free.com##.notice
+www.movie2free.com###aaa-banner-left
+www.movie2free.com##div.box:nth-of-type(2)
+www.movie2free.com##div.box:nth-of-type(4)
+www.movie2free.com##div.box:nth-of-type(5)
+www.movie2free.com##div.box:nth-of-type(6)
 www.movie2free.com##body > div:nth-of-type(4)
+www.movie2free.com##div.sidebar:nth-of-type(2)
+www.movie2free.com##div.sidebar:nth-of-type(3)
+www.movie2free.com##.content-right > div.sidebar:nth-of-type(1)
 
 ! Nicooppai.net
 www.niceoppai.net###text-33
