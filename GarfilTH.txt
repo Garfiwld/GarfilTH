@@ -25,9 +25,7 @@ movie1free.com##[class="media-popup-container"]
 ||*/video.mp4$media,domain=movie1free.com
 
 ! Nicooppai.net
-www.niceoppai.net###text-33
-www.niceoppai.net###text-89
-www.niceoppai.net###sct_top_banner
+www.niceoppai.net##[target="_blank"]
 
 ! Youtube.com
 www.youtube.com###video-masthead
