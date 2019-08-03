@@ -19,9 +19,10 @@
 www.7mscorethai.com##[target="_blank"]
 
 ! Movie2free.com
-||movies-x.com^
 www.movie2free.com##[target="_new"]
 www.movie2free.com##[target="_blank"]
+movie1free.com##[class="media-popup-container"]
+||*/video.mp4$media,domain=movie1free.com
 
 ! Nicooppai.net
 www.niceoppai.net###text-33
