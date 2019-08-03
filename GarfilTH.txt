@@ -12,24 +12,16 @@
 ||*.nipa.co.th^$script
 ||*.taboola.com^$script
 
-! Goolge Ads
+! Google Ads
 ||imasdk.googleapis.com^
 
 ! 7mscorethai.com
-||static.7mscorethai.com/content/classic_skin_dark/logo-77up.png
-||static.7mscorethai.com/images/bn/*
+www.7mscorethai.com##[target="_blank"]
 
 ! Movie2free.com
 ||movies-x.com^
-www.movie2free.com##.notice
-www.movie2free.com###aaa-banner-left
-www.movie2free.com##div.box:nth-of-type(4)
-www.movie2free.com##div.box:nth-of-type(5)
-www.movie2free.com##div.box:nth-of-type(6)
-www.movie2free.com##body > div:nth-of-type(4)
-www.movie2free.com##div.sidebar:nth-of-type(2)
-www.movie2free.com##div.sidebar:nth-of-type(3)
-www.movie2free.com##.content-right > div.sidebar:nth-of-type(1)
+www.movie2free.com##[target="_new"]
+www.movie2free.com##[target="_blank"]
 
 ! Nicooppai.net
 www.niceoppai.net###text-33
