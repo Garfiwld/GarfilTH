@@ -2,6 +2,10 @@
 ! Title: GarfilTH
 ! Homepage: https://github.com/Garfiwld/GarfilTH
 
+!############################
+!########## Blocks ##########
+!############################
+
 ! Script
 ||*.bumq.com^$script
 ||*.beaverads.com^$script
@@ -34,3 +38,18 @@ www.niceoppai.net###sct_top_banner
 
 ! Youtube.com
 www.youtube.com###video-masthead
+
+! facebook
+www.facebook.com###fbVideoStreamingReactionsTray
+www.facebook.com##._5pe-
+www.facebook.com##._5pf2
+www.facebook.com##._1rgv
+www.facebook.com##._h1j
+
+!###########################
+!########## Allow ##########
+!###########################
+
+! tv.trueid.net
+@@||src.litix.io/videojs/2/videojs-mux.js$script,domain=tv.trueid.net
+
