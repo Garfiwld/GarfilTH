@@ -16,7 +16,7 @@
 ||imasdk.googleapis.com^
 
 ! 7mscorethai.com
-||static.7mscorethai.com/content/classic_skin_dark/logo-77up.png	www.7mscorethai.com##[target="_blank"]
+||static.7mscorethai.com/content/classic_skin_dark/logo-77up.png
 ||static.7mscorethai.com/images/bn/*
 www.7mscorethai.com##[target="_blank"]
 
