@@ -15,12 +15,12 @@
 ! Google Ads
 ||imasdk.googleapis.com^
 
-! 7mscorethai.com
+! https://7mscorethai.com
 ||static.7mscorethai.com/content/classic_skin_dark/logo-77up.png
 ||static.7mscorethai.com/images/bn/*
 www.7mscorethai.com##[target="_blank"]
 
-! Movie2free.com
+! https://Movie2free.com
 www.movie2free.com##[target="_new"]
 www.movie2free.com##[target="_blank"]
 movie1free.com##[class="media-popup-container"]
@@ -36,10 +36,10 @@ www.niceoppai.net##[target="_blank"]
 ! https://www.anime-sugoi.com
 www.anime-sugoi.com##[rel="nofollow"]
 
-! Youtube.com
+! https://Youtube.com
 www.youtube.com###video-masthead
 
-! facebook
+! https://facebook
 www.facebook.com###fbVideoStreamingReactionsTray
 www.facebook.com##._5pe-
 www.facebook.com##._5pf2
@@ -50,6 +50,6 @@ www.facebook.com##._h1j
 !########## Allow ##########
 !###########################
 
-! tv.trueid.net
+! https://tv.trueid.net
 @@||src.litix.io/videojs/2/videojs-mux.js$script,domain=tv.trueid.net
 
