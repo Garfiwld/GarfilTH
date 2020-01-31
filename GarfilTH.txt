@@ -27,6 +27,7 @@ movie1free.com##[class="media-popup-container"]
 ||*.mp4$media,domain=movie1free.com
 
 ! https://www.037hdd.com
+www.037hdd.com##[target="_blank"]	
 ||*.mp4$media,domain=leoplayer1.com
 
 ! Nicooppai.net
