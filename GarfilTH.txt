@@ -47,6 +47,9 @@ www.facebook.com##._1rgv
 www.facebook.com##._h1j
 www.facebook.com##._6cj0
 
+! wetv.vip
+wetv.vip##[class="txp-watermark"]
+
 !###########################
 !########## Allow ##########
 !###########################
