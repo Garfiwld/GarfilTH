@@ -50,6 +50,10 @@ www.facebook.com##._6cj0
 ! wetv.vip
 wetv.vip##[class="txp-watermark"]
 
+siambit.me##body > table.mainouter > tbody > tr:nth-child(3) > td > center > table:nth-child(5) > tbody > tr:nth-child(1) > td:nth-child(2) > a:nth-child(1)
+we-play.tv##div.jw-logo.jw-logo-top-right.jw-reset
+iq.com##iqpdiv.iqp-logo-box
+
 !###########################
 !########## Allow ##########
 !###########################
