@@ -39,20 +39,16 @@ www.anime-sugoi.com##[rel="nofollow"]
 ! https://Youtube.com
 www.youtube.com###video-masthead
 
-! https://facebook
-www.facebook.com###fbVideoStreamingReactionsTray
-www.facebook.com##._5pe-
-www.facebook.com##._5pf2
-www.facebook.com##._1rgv
-www.facebook.com##._h1j
-www.facebook.com##._6cj0
-
 ! wetv.vip
 wetv.vip##[class="txp-watermark"]
 
 siambit.me##body > table.mainouter > tbody > tr:nth-child(3) > td > center > table:nth-child(5) > tbody > tr:nth-child(1) > td:nth-child(2) > a:nth-child(1)
 we-play.tv##div.jw-logo.jw-logo-top-right.jw-reset
 iq.com##iqpdiv.iqp-logo-box
+animekimi.com##.lazy.animekimi-banner
+nana2play.com##.click_block
+nana2play.com##.jw-reset.jw-media
+www.037hdmovie.com,box-nung.com##[src$=".gif"]
 
 !###########################
 !########## Allow ##########
